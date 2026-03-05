@@ -1,4 +1,4 @@
-# ⚡ Energy Management AI Chatbot
+#  Energy Management AI Chatbot
 
 ## Overview
 
@@ -48,8 +48,8 @@ You type: "Compare 11th vs 10th Feb"
 │  Loads CSV data                     │
 │  Runs exact formulas:               │
 │    PUE = Total / IT Load            │
-│    % Change = (D2-D1)/D1 × 100     │
-│    Spike = |%| > 15%               │
+│    % Change = (D2-D1)/D1 × 100      │
+│    Spike = |%| > 15%                │
 │  Zero LLM involvement here          │
 └──────────────┬──────────────────────┘
                │
